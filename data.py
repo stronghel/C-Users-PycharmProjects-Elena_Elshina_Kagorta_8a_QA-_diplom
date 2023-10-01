@@ -12,7 +12,7 @@ body = {
     ]
 }
 #Тестовые данные для создания заказа
-# #body = {
+# body = {
 #     "firstName": "Кот",
 #     "lastName": "Мажор",
 #     "address": "Красноярск, улица Льва Толстого, 16",
@@ -24,7 +24,7 @@ body = {
 #     "color": [
 #         "BLACK"
 #     ]
-# }
+#  }
 # {
 #     "firstName": "Naruto",
 #     "lastName": "Uchiha",
